@@ -1,0 +1,10 @@
+C:\Users\aluno2\Source\Repos\calculadora_completa\calculadora_completa\bin\Debug\calculadora_completa.exe.config
+C:\Users\aluno2\Source\Repos\calculadora_completa\calculadora_completa\bin\Debug\calculadora_completa.exe
+C:\Users\aluno2\Source\Repos\calculadora_completa\calculadora_completa\bin\Debug\calculadora_completa.pdb
+C:\Users\aluno2\Source\Repos\calculadora_completa\calculadora_completa\obj\Debug\calculadora_completa.csprojAssemblyReference.cache
+C:\Users\aluno2\Source\Repos\calculadora_completa\calculadora_completa\obj\Debug\calculadora_completa.Form1.resources
+C:\Users\aluno2\Source\Repos\calculadora_completa\calculadora_completa\obj\Debug\calculadora_completa.Properties.Resources.resources
+C:\Users\aluno2\Source\Repos\calculadora_completa\calculadora_completa\obj\Debug\calculadora_completa.csproj.GenerateResource.cache
+C:\Users\aluno2\Source\Repos\calculadora_completa\calculadora_completa\obj\Debug\calculadora_completa.csproj.CoreCompileInputs.cache
+C:\Users\aluno2\Source\Repos\calculadora_completa\calculadora_completa\obj\Debug\calculadora_completa.exe
+C:\Users\aluno2\Source\Repos\calculadora_completa\calculadora_completa\obj\Debug\calculadora_completa.pdb
